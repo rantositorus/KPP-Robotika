@@ -1,7 +1,7 @@
 # KPP-Robotika
 Program ini dibuat dengan tujuan memenuhi tugas KPP UKM Robotika ITS
 
-Nama: Ranto Bastara Hamonangan Sitorus
+Nama: Ranto Bastara Hamonangan Sitorus \n
 NRP: 5025221228
 Jurusan: Teknik Informatika
 
